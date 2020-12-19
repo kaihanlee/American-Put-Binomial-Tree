@@ -2,4 +2,4 @@
 
 code.R contains the full code
 
-![alt text](binomial tree.PNG)
+![Binomial Tree](https://github.com/leekh08/American-Put-Binomial-Tree/blob/main/binomial%20tree.PNG)
